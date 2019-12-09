@@ -8,4 +8,4 @@ The purpose of this blog is to inform the public on information on cures & treat
 
 For my project, I am making a website about Medince solutions using Github, HTML, CSS, and(tbd
 
-This blog will document the process of independently studying the purpose anf difference of cures and treatments and (tbd) and making the website.
+This blog will document the process of independently studying the purpose anf difference of cures and treatments and (tbd) making the website.
