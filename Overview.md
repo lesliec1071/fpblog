@@ -1,5 +1,4 @@
-The first is an OVERVIEW Entry - this is the Introduction, it explains the purpose of the blog, that it is documenting the freedom project (and what that is), and what you are writing about.
-There is _only one_ overview entry.
+## Overview
 
 *Context*
 The “Freedom Project” for SEP10  is a course-long project where you apply the content you are learning in daily lessons to your own creation. As well as learning new content on your own to reflect upon your learning in a blog. After we would present your product and process.
